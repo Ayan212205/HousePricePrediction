@@ -7,3 +7,5 @@ matplotlib
 plotly
 streamlit-lottie
 openai
+Pillow
+google-generativeai
