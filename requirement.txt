@@ -5,7 +5,9 @@ scikit-learn
 seaborn
 matplotlib
 plotly
+joblib
 streamlit-lottie
 openai
 Pillow
 google-generativeai
+
