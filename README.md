@@ -1,2 +1,9 @@
-# HousePricePrediction
-This is my first machine learning project. 
+# 🏠 House Price Predictor + Chatbot
+
+✔ Predicts California house prices  
+✔ AI chatbot assistant powered by Gemini  
+✔ Interactive charts & maps  
+
+🔗 Live App: https://houseoracle.streamlit.app/
+
+
