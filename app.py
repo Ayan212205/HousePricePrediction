@@ -240,6 +240,6 @@ if st.session_state.chat_open:
 
 # ================= FOOTER =================
 st.markdown(
-    "<p style='text-align:center;'>Made with love 💜 <b>Ayan</b></p>",
+    "<p style='text-align:center;'>Made with love💜</p>",
     unsafe_allow_html=True
 )
